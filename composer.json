@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NbpdSniff\Sniffs\\": "sniffs/"
+            "NbpdSniff\\Sniffs\\": "sniffs/"
         }
     },
     "autoload-dev": {
