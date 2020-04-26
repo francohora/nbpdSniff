@@ -1,4 +1,4 @@
 ### Install
 
 ## Composer
-composer require robot-bot/nbpSniff 
+`composer require robot-bot/nbpSniff`
