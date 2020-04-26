@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ruleset name="NbpdSniff" namespace="NbpdSniff">
+    <description>A custom coding standard for nbpd.</description>
+    <rule ref="PEAR">
+        <exclude name="PEAR.Commenting.FileComment"/>
+        <exclude name="PEAR.Classes.ClassDeclaration.SpaceBeforeBrace"/>
+    </rule>
+
+    <rule ref="*/nbpdSniff/" />
+</ruleset>
