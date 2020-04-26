@@ -5,6 +5,4 @@
         <exclude name="PEAR.Commenting.FileComment"/>
         <exclude name="PEAR.Classes.ClassDeclaration.SpaceBeforeBrace"/>
     </rule>
-
-    <rule ref="*/nbpdSniff/" />
 </ruleset>
